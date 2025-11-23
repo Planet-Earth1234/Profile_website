@@ -294,7 +294,7 @@ export default function Home() {
 
             <div className="flex flex-wrap justify-center gap-3 sm:gap-6 animate-fadeIn" style={{ animationDelay: '0.6s' }}>
               {[
-                { href: 'https://github.com/planet-earth1234', text: 'GitHub', icon: '🤖'},
+                { href: 'https://github.com/Planet-Earth1234/Planet-Earth1234/blob/main/README.md', text: 'GitHub', icon: '🤖'},
                 { href: 'https://www.linkedin.com/in/rahul-g-28333427b/', text: 'LinkedIn', icon: '💼' },
                 { href: 'mailto:rahulgupta190310587044@gmail.com', text: 'Email', icon: '✉️' }
               ].map((link) => (
